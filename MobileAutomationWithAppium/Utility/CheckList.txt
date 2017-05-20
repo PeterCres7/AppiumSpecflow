@@ -1,0 +1,11 @@
+﻿When Adding a new Screen These are the changes that need to be made 
+
+1. Create the Feature File.
+2. Create the Feature Class.
+3. Create IScreen, AndroidScreen and iOSScreen.
+4. Go to the ScreenNames class and add the new Screen name.
+5. Add the new Screen to the AppInitialize.
+6. Create a new ClassSteps file.
+7. Add the new Screen to the StepBase.
+
+
